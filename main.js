@@ -90,7 +90,7 @@ window.onload = async () => {
     } else {
       updateScreen('win', 'FFDE40')
       Nuwa.say('我贏了')
-      Nuwa.syncMotionPlay("666_EM_Happy03");
+      Nuwa.syncMotionPlay("666_EM_Happy02");
     }
     await delay(2)
 

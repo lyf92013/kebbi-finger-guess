@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background: url("./asset/start.png");
+  background-repeat: no-repeat;
+  background-color: #FFDE40;
+  height: 596px;
+  justify-content: center;
+  align-items: center;
+}
+
+#countdown {
+  font-size: 250px;
+}
+
+#image-classifier-container{
+  display: none;
+}
